@@ -1,0 +1,18 @@
+<HTML>
+<head>
+<title>
+Pre tag equation display
+</title>
+</head>
+<BODY>
+<h1>Equations</h1>
+<pre>
+<b>Equation type</b>                       <b> Equation </b>
+Equation 1 	                 CO<sub>2</sub>
+Equation 2			 E = mc<sup>2</sup>
+Equation 3                       (a + b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab	
+</pre>
+
+</BODY>
+
+</HTML>
